@@ -2,7 +2,7 @@ import { Container, MediaIcon } from 'components';
 import { motion } from 'framer-motion';
 import { useTranslation } from 'next-i18next';
 import React, { FC } from 'react';
-import { FaGithub, FaLinkedin, FaPaperclip, FaTwitter } from 'react-icons/fa';
+import { FaGithub, FaInstagram, FaLinkedin, FaPaperclip, FaTwitter } from 'react-icons/fa';
 
 import { HandWave } from './libs/HandWave';
 import { HeroLink } from './libs/HeroLink';
@@ -51,17 +51,17 @@ export const Hero: FC = () => {
       <div className="flex mt-8">
         <MediaIcon
           icon={<FaGithub className="w-6 h-6 md:w-7 md:h-7" />}
-          href="https://github.com/LemonFace0309"
+          href="https://github.com/natashawa225"
           className="mr-4"
         />
         <MediaIcon
           icon={<FaLinkedin className="w-6 h-6 md:w-7 md:h-7" />}
-          href="https://www.linkedin.com/in/charles-liu-%F0%9F%94%8C-294391152/"
+          href="https://www.linkedin.com/in/natasha-wilfrid-3230422b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
           className="mr-4"
         />
         <MediaIcon
-          icon={<FaTwitter className="w-6 h-6 md:w-7 md:h-7" />}
-          href="https://twitter.com/CharlesLiu9"
+          icon={<FaInstagram className="w-6 h-6 md:w-7 md:h-7" />}
+          href="https://Instagram.com/natashawilfrid"
           className="mr-4"
         />
         <MediaIcon

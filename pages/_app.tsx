@@ -10,9 +10,9 @@ import { ThemeProvider } from 'next-themes';
 import SEO from '../next-seo.config';
 
 const keywords = [
-  'Charles',
-  'Charles Liu',
-  'University of Waterloo',
+  'Natasha Wilfrid',
+  'Natasha Wilfrid Atmadja',
+  'University of Xi\'an Jiaotong Liverpool',
   'Software Developer',
   'CS',
   'Computer Science',

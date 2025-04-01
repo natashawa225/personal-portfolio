@@ -1,12 +1,12 @@
 {
-  "headTitle": "首页 | 查尔斯",
+  "headTitle": "首页 | Natasha",
   "header": "首页",
   "hero": {
-    "title": "嗨，我是查尔斯！",
+    "title": "嗨，我是Natasha！",
     "p0": "目前正在修补 RAG 并在以下位置施展魔法",
     "p1": "未来的 SWE 实习生",
     "p2": "以前",
-    "des0": "我是滑铁卢大学计算机科学专业的三年级学生，专攻 SWE、AI 和商业。",
+    "des0": "我是西浦大学计算机科学专业的三年级学生，专攻 SWE、AI 和商业。",
     "des1": "我喜欢团队合作来创建高质量和复杂的软件。",
     "des2": "我主要使用 TS 和 Python 进行构建，在 React、Node、GraphQL、PyTorch 和 SQL 数据库方面具有很强的能力，尽管我总是很高兴能够展示我的其他肌肉。",
     "des3": "我目前在旧金山，在海耶斯谷 (Hayes Valley) 托管着一个有 13 名居民的集体住宅，我们在那里进行了大量的恶作剧。"
@@ -41,7 +41,7 @@
   },
   "currently": "目前",
   "citation": {
-    "content": "请雇用查尔斯。他很棒！",
+    "content": "请雇用Natasha。她很棒！",
     "author": "——孔子"
   },
   "covid19": "因 Covid-19 而推迟",

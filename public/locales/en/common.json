@@ -1,12 +1,12 @@
 {
-  "headTitle": "Home | Charles",
+  "headTitle": "Home | Natasha",
   "header": "Home",
   "hero": {
-    "title": "Hi, I'm Charles!",
+    "title": "Hi, I'm Natasha!",
     "p0": "Currently tinkering with RAGs and performing magic at",
     "p1": "Future SWE intern at",
     "p2": "Previously",
-    "des0": "I'm a 4th year computer science specializing in SWE, AI, and business at the University of Waterloo.",
+    "des0": "I'm a 2nd year computer science specializing in SWE, AI, and business at the University of Xi'an JiaoTong Liverpool.",
     "des1": "I love collaborating in teams to create high-quality and sophisticated software.",
     "des2": "I build mostly in TS & Python with strong competences in React, Node, GraphQL, PyTorch, and SQL dbs, though I'm always excited to flex my other muscles.",
     "des3": "I'm currently in SF, hosting a group house with 13 residents in Hayes Valley where we're hacking a ton & maxxing out on shinanigans."
@@ -41,7 +41,7 @@
   },
   "currently": "Currently",
   "citation": {
-    "content": "Please hire Charles. He's great!",
+    "content": "Please hire Natasha. She's great!",
     "author": "— Confucius"
   },
   "covid19": "Postponed due to Covid-19",
