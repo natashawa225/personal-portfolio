@@ -16,35 +16,35 @@ export const Experience: FC = () => {
   const experience = useMemo(
     () => [
       {
-        title: 'Census Software Engineer Intern',
-        place: 'San Francisco, CA',
-        date: 'May 2024 - August 2024',
+        title: 'Habitat for Humanity Volunteer',
+        place: 'Online',
+        date: 'February 2021 - April 2021',
       },
       {
-        title: 'Spatial Software Engineer Intern',
-        place: 'New York, NY',
-        date: 'Sept 2023 - Dec 2023',
+        title: 'National Entrepreneurship Camp Participant',
+        place: 'Jakarta, Indonesia',
+        date: 'October 2020 - November 2020',
+      },
+      // {
+      //   title: 'CertiK Software Engineer Intern',
+      //   place: 'New York, NY',
+      //   date: 'Jan 2023 - April 2023',
+      // },
+      {
+        title: 'Habitat for Humanity Volunteer',
+        place: 'Online',
+        date: 'February 2021 - April 2021',
       },
       {
-        title: 'CertiK Software Engineer Intern',
-        place: 'New York, NY',
-        date: 'Jan 2023 - April 2023',
+        title: 'National Entrepreneurship Camp Participant',
+        place: 'Jakarta, Indonesia',
+        date: 'October 2020 - November 2020',
       },
-      {
-        title: 'On Deck Software Engineer Intern',
-        place: 'San Francisco, CA',
-        date: 'Jan 2022 - April 2022',
-      },
-      {
-        title: 'Enzuzo Full Software Engineer Intern',
-        place: 'Waterloo, ON',
-        date: 'May 2021 - August 2021',
-      },
-      {
-        title: 'Freelance Software Developer',
-        place: 'Toronto, ON',
-        date: 'May 2020 - April 2021',
-      },
+      // {
+      //   title: 'Habitat for Humanity Volunteer',
+      //   place: 'Online',
+      //   date: 'February 2021 - April 2021',
+      // },
       // {
       //   title: 'Bitcoin Bay Intern',
       //   place: 'Toronto, On',

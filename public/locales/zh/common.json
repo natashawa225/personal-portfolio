@@ -3,28 +3,26 @@
   "header": "首页",
   "hero": {
     "title": "嗨，我是Natasha！",
-    "p0": "目前正在修补 RAG 并在以下位置施展魔法",
     "p1": "未来的 SWE 实习生",
-    "p2": "以前",
     "des0": "我是西浦大学计算机科学专业的三年级学生，专攻 SWE、AI 和商业。",
     "des1": "我喜欢团队合作来创建高质量和复杂的软件。",
-    "des2": "我主要使用 TS 和 Python 进行构建，在 React、Node、GraphQL、PyTorch 和 SQL 数据库方面具有很强的能力，尽管我总是很高兴能够展示我的其他肌肉。",
-    "des3": "我目前在旧金山，在海耶斯谷 (Hayes Valley) 托管着一个有 13 名居民的集体住宅，我们在那里进行了大量的恶作剧。"
+    "des2": "我主要使用 TypeScript、Python 和 Java 进行开发，擅长 React、Node 和 SQL 数据库，但也乐于挑战其他技术领域",
+    "des3": "目前常驻中国，但非常乐意交流、合作，并投身于有趣的项目中"
   },
   "projects": {
     "title": "项目",
     "description": "以下是我领导和开发的一些我最喜欢的项目。它们不仅编写代码非常有趣，而且其中许多现在为真人提供了实用工具！",
     "msmr": {
-      "subtitle": "与瑞尔森大学签约",
-      "description": "发表在 CVPR 研讨会上，开发了世界上最大的脑电图数据集，目前正在使用不同的基础模型来根据思想重建图像。"
+      "subtitle": "au ah gelap",
+      "description": "g bs bahasa mandarin"
     },
     "uwcribs": {
-      "subtitle": "滑铁卢大学学生住房聚合器",
-      "description": "我们没有在每个词条上无休止地浏览 Facebook 来寻找合适的居住地，而是在搜索引擎中汇总了所有可用列表以满足您的特定需求。"
+      "subtitle": "au ah gelap",
+      "description": "g bs bahasa mandarin"
     },
     "squiggles": {
-      "subtitle": "人工智能研究论文课程建设",
-      "description": "亲密的朋友和研究人员使用它通过交互式学习和发现来增强他们的学习过程。"
+      "subtitle": "au ah gelap",
+      "description": "g bs bahasa mandarin"
     }
   },
   "skills": {

@@ -29,7 +29,7 @@ const languages = [
   {
     id: Languages.en,
     name: 'EN',
-    flag: '🇨🇦',
+    flag: '🇺🇸',
   },
 ];
 

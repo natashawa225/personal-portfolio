@@ -2,8 +2,8 @@ import { Container, Section } from 'components';
 import { useAnimation } from 'framer-motion';
 import { useTranslation } from 'next-i18next';
 import React, { FC, useEffect } from 'react';
-import { FaReact } from 'react-icons/fa';
-import { SiDocker, SiGraphql, SiNodeDotJs, SiPytorch } from 'react-icons/si';
+import { FaJava, FaPython, FaReact } from 'react-icons/fa';
+import { SiDocker, SiGraphql, SiJavascript, SiLatex, SiNodeDotJs, SiPytorch } from 'react-icons/si';
 import { useInView } from 'react-intersection-observer';
 
 import { AwsIcon, EthereumIcon, MongoIcon, PostgresIcon, TsIcon } from './libs/Icons';
@@ -11,9 +11,9 @@ import { Skill } from './libs/Skill';
 
 const skills = [
   {
-    name: 'Typescript',
-    href: 'https://www.typescriptlang.org/',
-    icon: <TsIcon />,
+    name: 'Java',
+    href: 'https://www.java.com/',
+    icon: <FaJava />,
   },
   {
     name: 'React',
@@ -21,9 +21,9 @@ const skills = [
     icon: <FaReact color="#00D8FF" />,
   },
   {
-    name: 'TensorFlow',
-    href: 'https://www.https://pytorch.org/',
-    icon: <SiPytorch color="#FF6F00" />,
+    name: 'Python',
+    href: 'https://www.https://pyton.com/',
+    icon: <FaPython color="#FF6F00" />,
   },
   {
     name: 'Node.js',
@@ -51,14 +51,14 @@ const skills = [
     icon: <SiGraphql color="#E535AB" />,
   },
   {
-    name: 'Docker',
-    href: 'https://www.docker.com/',
-    icon: <SiDocker color="#0DB7ED" />,
+    name: 'Latex',
+    href: 'https://www.overleaf.com/',
+    icon: <SiLatex color="#0DB7ED" />,
   },
   {
-    name: 'AWS',
-    href: 'https://aws.amazon.com/',
-    icon: <AwsIcon />,
+    name: 'JavaScript',
+    href: 'https://www.javascript.com/',
+    icon: <SiJavascript />,
   },
 ];
 
