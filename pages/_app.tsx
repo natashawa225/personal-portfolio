@@ -12,7 +12,7 @@ import SEO from '../next-seo.config';
 const keywords = [
   'Natasha Wilfrid',
   'Natasha Wilfrid Atmadja',
-  'University of Xi\'an Jiaotong Liverpool',
+  'University of Xian Jiaotong Liverpool',
   'Software Developer',
   'CS',
   'Computer Science',
