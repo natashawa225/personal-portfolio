@@ -4,7 +4,7 @@
   "hero": {
     "title": "嗨，我是Natasha！",
     "p1": "未来的 SWE 实习生",
-    "des0": "我是西浦大学计算机科学专业的三年级学生，专攻 SWE、AI 和商业。",
+    "des0": "我是西浦大学计算机科学专业的三年级学生，专攻 SWE、AI information science。",
     "des1": "我喜欢团队合作来创建高质量和复杂的软件。",
     "des2": "我主要使用 TypeScript、Python 和 Java 进行开发，擅长 React、Node 和 SQL 数据库，但也乐于挑战其他技术领域",
     "des3": "目前常驻中国，但非常乐意交流、合作，并投身于有趣的项目中"
@@ -13,16 +13,16 @@
     "title": "项目",
     "description": "以下是我领导和开发的一些我最喜欢的项目。它们不仅编写代码非常有趣，而且其中许多现在为真人提供了实用工具！",
     "msmr": {
-      "subtitle": "au ah gelap",
-      "description": "g bs bahasa mandarin"
+      "subtitle": "Quiz Application",
+      "description": "这款基于Java Swing开发的互动问答应用包含积分排行榜功能，可追踪最高分，增强用户参与度和竞技性。"
     },
     "uwcribs": {
-      "subtitle": "au ah gelap",
-      "description": "g bs bahasa mandarin"
+      "subtitle": "Dog Tinder App Landing page",
+      "description": "为一款宠物交友应用设计并开发了简洁美观的落地页，优化视觉吸引力和用户体验。"
     },
     "squiggles": {
-      "subtitle": "au ah gelap",
-      "description": "g bs bahasa mandarin"
+      "subtitle": "笔记应用",
+      "description": "一款简洁高效的笔记应用，我和我的朋友们经常用它来整理思绪和管理任务。"
     }
   },
   "skills": {
