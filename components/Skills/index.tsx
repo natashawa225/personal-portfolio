@@ -3,10 +3,10 @@ import { useAnimation } from 'framer-motion';
 import { useTranslation } from 'next-i18next';
 import React, { FC, useEffect } from 'react';
 import { FaJava, FaPython, FaReact } from 'react-icons/fa';
-import { SiDocker, SiGraphql, SiJavascript, SiLatex, SiNodeDotJs, SiPytorch } from 'react-icons/si';
+import { SiGraphql, SiJavascript, SiLatex, SiNodeDotJs, SiPytorch } from 'react-icons/si';
 import { useInView } from 'react-intersection-observer';
 
-import { AwsIcon, EthereumIcon, MongoIcon, PostgresIcon, TsIcon } from './libs/Icons';
+import {MongoIcon, PostgresIcon } from './libs/Icons';
 import { Skill } from './libs/Skill';
 
 const skills = [
@@ -41,9 +41,9 @@ const skills = [
     icon: <PostgresIcon />,
   },
   {
-    name: 'Solidity',
-    href: 'https://docs.soliditylang.org/en/v0.8.16/',
-    icon: <EthereumIcon />,
+    name: 'SiPytorch',
+    href: 'https://www.sipytorch.com/',
+    icon: <SiPytorch />,
   },
   {
     name: 'GraphQL',
