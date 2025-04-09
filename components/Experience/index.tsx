@@ -16,6 +16,11 @@ export const Experience: FC = () => {
   const experience = useMemo(
     () => [
       {
+        title: 'Online Marketing Manager Intern',
+        place: 'Jakarta, Indonesia',
+        date: 'July 2024 - August 2024',
+      },
+      {
         title: 'Habitat for Humanity Volunteer',
         place: 'Online',
         date: 'February 2021 - April 2021',
@@ -24,26 +29,11 @@ export const Experience: FC = () => {
         title: 'National Entrepreneurship Camp Participant',
         place: 'Jakarta, Indonesia',
         date: 'October 2020 - November 2020',
-      },
+      }
       // {
       //   title: 'CertiK Software Engineer Intern',
       //   place: 'New York, NY',
       //   date: 'Jan 2023 - April 2023',
-      // },
-      {
-        title: 'Habitat for Humanity Volunteer',
-        place: 'Online',
-        date: 'February 2021 - April 2021',
-      },
-      {
-        title: 'National Entrepreneurship Camp Participant',
-        place: 'Jakarta, Indonesia',
-        date: 'October 2020 - November 2020',
-      },
-      // {
-      //   title: 'Habitat for Humanity Volunteer',
-      //   place: 'Online',
-      //   date: 'February 2021 - April 2021',
       // },
       // {
       //   title: 'Bitcoin Bay Intern',
