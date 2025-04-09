@@ -29,7 +29,7 @@ export const Experience: FC = () => {
         title: 'National Entrepreneurship Camp Participant',
         place: 'Jakarta, Indonesia',
         date: 'October 2020 - November 2020',
-      }
+      },
       // {
       //   title: 'CertiK Software Engineer Intern',
       //   place: 'New York, NY',
