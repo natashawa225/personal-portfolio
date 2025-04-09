@@ -6,7 +6,7 @@ import { FaJava, FaPython, FaReact } from 'react-icons/fa';
 import { SiGraphql, SiJavascript, SiLatex, SiNodeDotJs, SiPytorch } from 'react-icons/si';
 import { useInView } from 'react-intersection-observer';
 
-import {MongoIcon, PostgresIcon } from './libs/Icons';
+import { MongoIcon, PostgresIcon } from './libs/Icons';
 import { Skill } from './libs/Skill';
 
 const skills = [
